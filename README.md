@@ -46,7 +46,38 @@ dalam hal prosedur, kebijakan, atau layanan yang tersedia
    Ini menekankan pentingnya kegunaan dan responsivitas dalam desain aplikasi.
 
 # 2. BAB II Landasan Teori
-2.1. Deskripsi Topik Yang Sama
+## 2.1. Deskripsi Topik Yang Sama
+Penelitian sebelumnya dalam deteksi PENINGKATAN SERVICE 
+EXCELLENT DI LLDIKTI IV BERDASARKAN USER EXPERIENCE.
+Beberapa studi terdahulu yang relevan termasuk:
+" PENERAPAN CHATBOT AUTO REPLY PADA WHATSAPP
+MENGGUNAKAN ARTIFICIAL INTELLIGENCE
+(STUDI KASUS SRI RATU LAUNDRY)[1]):
+Penelitian ini berfokus pada penerapan sistem balasan otomatis chatbot di 
+WhatsApp menggunakan kecerdasan buatan, khususnya bot template Landbot, 
+untuk meningkatkan keterlibatan pengguna dan meningkatkan tingkat konversi. 
+" Perancangan Chatbot Penjualan Obat
+Bebas Berbasis Whatsapp Dengan
+Integrasi Robotic Process Automation
+(RPA[2]):
+Penelitian ini berfokus pada perancangan chatbot telepharmacy untuk 
+penjualan obat-obatan tanpa resep menggunakan AI dan Robotic Process 
+Automation (RPA) . Di era normal baru, telepharmacy menghadirkan peluang 
+bisnis bagi apotek untuk menyediakan layanan farmasi jarak jauh, terutama untuk 
+penjualan obat-obatan tanpa resep . Tantangan yang dihadapi oleh apotek 
+mencakup keterbatasan dalam menerapkan telepharmacy karena kendala sumber 
+daya manusia dan keberadaan distributor obat online yang tidak resmi . Desain 
+sistem melibatkan interaksi pengguna, Dialogflow untuk pemrosesan teks, 
+Spreadsheet untuk penyimpanan data, dan UiPath Studio untuk otomatisasi . 
+Layanan telepharmacy menggunakan chatbot lebih efisien dan hemat biaya 
+dibandingkan penanganan oleh manusia, sebagaimana ditunjukkan dalam temuan 
+penelitian ini ..
+" PEMBUATAN WHATSAPP BOT COVID-19 (2021)[3]:
+Setelah implementasi, pengujian sistem menentukan respon Bot Whatsapp 
+sesuai dengan tujuan yang ditetapkan untuk mencapai pemahaman pengguna. 
+Gunakan teknik pengujian kotak hitam untuk memverifikasi pencapaian tujuan 
+dan menghindari kesalahan sistem.."
+
 2.2. Deskripsi Metode Yang Sama
 3. BAB III Metodologi Penelitian
 3.1. Metodologi Penelitian.
