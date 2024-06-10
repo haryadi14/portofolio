@@ -29,14 +29,21 @@ ini mungkin tidak optimal, menyebabkan ketidakjelasan atau kebingungan
 dalam hal prosedur, kebijakan, atau layanan yang tersedia
 
 ## 1.3. Tujuan dan Manfaat
-1.	Meningkatkan Kepuasan: Dengan menyediakan layanan yang lebih cepat, responsif, dan personal, tujuan utama adalah meningkatkan kepuasan mahasiswa terhadap layanan yang diberikan oleh LLDIKTI 4.
+1.	Meningkatkan Kepuasan: Dengan menyediakan layanan yang lebih cepat, responsif, dan personal, tujuan utama adalah meningkatkan kepuasan user terhadap layanan yang diberikan oleh LLDIKTI 4.
 2.	Meningkatkan Aksesibilitas Layanan: Memperluas aksesibilitas layanan pendidikan tinggi dengan memberikan akses yang mudah dan cepat melalui platform yang populer seperti WhatsApp,
-    sehingga mahasiswa dapat dengan mudah mengakses informasi dan mendapatkan bantuan yang mereka butuhkan.
-4.	Pengalaman Pengguna yang Lebih Baik: Mahasiswa akan mendapatkan pengalaman pengguna yang lebih baik melalui layanan yang lebih responsif, cepat, dan personal, meningkatkan kepuasan dan loyalitas mereka terhadap lembaga.
+    sehingga user dapat dengan mudah mengakses informasi dan mendapatkan bantuan yang mereka butuhkan.
+4.	Pengalaman Pengguna yang Lebih Baik: User akan mendapatkan pengalaman pengguna yang lebih baik melalui layanan yang lebih responsif, cepat, dan personal, meningkatkan kepuasan dan loyalitas mereka terhadap lembaga.
 5.	Peningkatan Kualitas Layanan: Dengan akses yang lebih mudah dan respons yang lebih cepat, LLDIKTI 4 dapat meningkatkan kualitas layanan secara keseluruhan, memastikan bahwa mahasiswa mendapatkan dukungan yang mereka butuhkan dalam perjalanan pendidikan mereka.
 
 ## 1.4. Ruang Lingkup
-
+1. Tujuan Proyek: Mengembangkan pelayanan digital Bot Whatsapp yang dapat diakses melalui platform WhatsApp dengan menggunakan teknologi bot.
+   Tujuannya adalah untuk memfasilitasi Lembaga Layanan Pendidikan Tinggi (LLDIKTI) 4 dalam menjalankan tugas-tugas penjaminan mutu pendidikan tinggi di wilayah kerjanya.
+2. Fokus Pengembangan: Pelayanan digital ini difokuskan pada peningkatan aksesibilitas layanan bagi perguruan tinggi dan pemangku kepentingan terkait.
+   Ini mencakup percepatan proses komunikasi, pengumpulan data, evaluasi, dan pelaporan.
+3. Teknologi yang Digunakan: Menggunakan teknologi bot WhatsApp sebagai platform untuk WhatsAuth. Dana menggunakan Bahasa Pemrograman GO.
+   Ini menunjukkan bahwa proyek ini akan memanfaatkan fitur-fitur yang tersedia di WhatsApp untuk menyediakan layanan kepada pengguna.
+4. Pengalaman Pengguna: WhatsAuth bertujuan untuk memberikan pengalaman pengguna yang lebih baik melalui antarmuka yang intuitif dan responsif.
+   Ini menekankan pentingnya kegunaan dan responsivitas dalam desain aplikasi.
 
 # 2. BAB II Landasan Teori
 2.1. Deskripsi Topik Yang Sama
