@@ -1,5 +1,6 @@
-# 1. BAB I Pendahuluan
-## 1.1. Latar Belakang
+# PENINGKATAN SERVICE EXCELLENT DI LLDIKTI IV BERDASARKAN USER EXPERIENCE 
+## 1. BAB I Pendahuluan
+### 1.1. Latar Belakang
 Pendidikan tinggi merupakan pilar utama dalam pembangunan sumber daya manusia yang berkualitas dan berdaya saing.
 Dalam era globalisasi dan digitalisasi yang berkembang pesat, lembaga pendidikan tinggi dituntut untuk terus berinovasi dan beradaptasi dengan perubahan yang terjadi. 
 Salah satu aspek yang semakin menjadi fokus utama adalah pengalaman pengguna (user experience) dalam mendapatkan layanan pendidikan tinggi.
@@ -14,7 +15,7 @@ Dalam konteks ini, penggunaan bot WhatsApp dengan menggunakan platform WhatsAuth
 Dengan integrasi teknologi kecerdasan buatan, WhatsAuth memungkinkan otomatisasi berbagai proses layanan, mulai dari pendaftaran, konseling akademik, hingga informasi akademis. 
 Hal ini tidak hanya dapat meningkatkan efisiensi operasional lembaga, tetapi juga memberikan pengalaman pengguna yang lebih baik dan memuaskan kepada mahasiswa.
 
-## 1.2. Identifikasi Masalah
+### 1.2. Identifikasi Masalah
 1. Tingkat Kepuasan : Tidak semua  merasa puas 
 dengan layanan yang diberikan oleh LLDIKTI 4, menunjukkan ada potensi 
 perbaikan dalam pengalaman pengguna.
@@ -28,14 +29,14 @@ atau permintaan layanan.
 ini mungkin tidak optimal, menyebabkan ketidakjelasan atau kebingungan 
 dalam hal prosedur, kebijakan, atau layanan yang tersedia
 
-## 1.3. Tujuan dan Manfaat
+### 1.3. Tujuan dan Manfaat
 1.	Meningkatkan Kepuasan: Dengan menyediakan layanan yang lebih cepat, responsif, dan personal, tujuan utama adalah meningkatkan kepuasan user terhadap layanan yang diberikan oleh LLDIKTI 4.
 2.	Meningkatkan Aksesibilitas Layanan: Memperluas aksesibilitas layanan pendidikan tinggi dengan memberikan akses yang mudah dan cepat melalui platform yang populer seperti WhatsApp,
     sehingga user dapat dengan mudah mengakses informasi dan mendapatkan bantuan yang mereka butuhkan.
 4.	Pengalaman Pengguna yang Lebih Baik: User akan mendapatkan pengalaman pengguna yang lebih baik melalui layanan yang lebih responsif, cepat, dan personal, meningkatkan kepuasan dan loyalitas mereka terhadap lembaga.
 5.	Peningkatan Kualitas Layanan: Dengan akses yang lebih mudah dan respons yang lebih cepat, LLDIKTI 4 dapat meningkatkan kualitas layanan secara keseluruhan, memastikan bahwa mahasiswa mendapatkan dukungan yang mereka butuhkan dalam perjalanan pendidikan mereka.
 
-## 1.4. Ruang Lingkup
+### 1.4. Ruang Lingkup
 1. Tujuan Proyek: Mengembangkan pelayanan digital Bot Whatsapp yang dapat diakses melalui platform WhatsApp dengan menggunakan teknologi bot.
    Tujuannya adalah untuk memfasilitasi Lembaga Layanan Pendidikan Tinggi (LLDIKTI) 4 dalam menjalankan tugas-tugas penjaminan mutu pendidikan tinggi di wilayah kerjanya.
 2. Fokus Pengembangan: Pelayanan digital ini difokuskan pada peningkatan aksesibilitas layanan bagi perguruan tinggi dan pemangku kepentingan terkait.
@@ -45,8 +46,8 @@ dalam hal prosedur, kebijakan, atau layanan yang tersedia
 4. Pengalaman Pengguna: WhatsAuth bertujuan untuk memberikan pengalaman pengguna yang lebih baik melalui antarmuka yang intuitif dan responsif.
    Ini menekankan pentingnya kegunaan dan responsivitas dalam desain aplikasi.
 
-# 2. BAB II Landasan Teori
-## 2.1. Deskripsi Topik Yang Sama
+## 2. BAB II Landasan Teori
+### 2.1. Deskripsi Topik Yang Sama
 Penelitian sebelumnya dalam deteksi PENINGKATAN SERVICE 
 EXCELLENT DI LLDIKTI IV BERDASARKAN USER EXPERIENCE.
 Beberapa studi terdahulu yang relevan termasuk:
@@ -78,6 +79,37 @@ sesuai dengan tujuan yang ditetapkan untuk mencapai pemahaman pengguna.
 Gunakan teknik pengujian kotak hitam untuk memverifikasi pencapaian tujuan 
 dan menghindari kesalahan sistem.."
 
+### 2.1.1 Golang
+Golang adalah bahasa pemrograman yang dikembangkan oleh Google. 
+Bahasa ini dirancang untuk efisiensi dan kemudahan pengembangan perangkat lunak skala besar.
+Beberapa fitur utama Golang adalah:
+1. Sangat fungsional: Golang sangat fungsional dengan dikompilasi langsung ke dalam kode mesin.
+2. Tata bahasa sederhana: Bahasa memiliki tata bahasa yang jelas dan mudah dipahami.
+3. Dukungan program: Golang mendukung pemrograman asinkron menggunakan goroutine, 
+   sehingga memudahkan pengembangan aplikasi yang memerlukan kinerja dan skalabilitas tinggi.
+4. Pengumpulan sampah: Golang memiliki pengumpul sampah untuk membantu mengelola memori secara otomatis.
+5. Kompilasi Cepat: Waktu pembuatan Golang sangat cepat, memungkinkan pengembang mempersingkat siklus pengembangan.
+
+### 2.1.1.2 Whatsapp
+WhatsApp adalah aplikasi pesan instan yang sangat populer, yang memungkinkan pengguna untuk mengirim pesan teks, gambar, video, dan dokumen, 
+serta melakukan panggilan suara dan video melalui internet. Fitur-fitur seperti enkripsi end-to-end, grup chat, status, dan kemampuan berbagi lokasi membuat WhatsApp menjadi alat komunikasi yang esensial bagi banyak orang di seluruh dunia. Aplikasi ini juga tersedia di berbagai platform, termasuk Android, iOS, dan web, memungkinkan pengguna untuk tetap terhubung di mana saja dan kapan saja.WhatsApp dikembangkan oleh WhatsApp Inc., yang didirikan oleh Jan Koum dan Brian Acton, dan kemudian diakuisisi oleh Facebook (sekarang Meta Platforms) pada tahun 2014.WhatsApp telah menjadi alat komunikasi penting bagi jutaan orang di seluruh dunia, baik untuk keperluan pribadi maupun bisnis.
+### 2.1.1.3 Bot Whatsapp
+Bot WhatsApp adalah perangkat lunak otomatis yang digunakan untuk berinteraksi dengan pengguna melalui WhatsApp. Bot ini dapat diprogram untuk melakukan berbagai tugas seperti menjawab pertanyaan umum, memberikan informasi, memproses pesanan, dan banyak lagi. Berikut adalah beberapa fungsi dan manfaat dari bot WhatsApp:
+- Layanan Pelanggan Otomatis: Bot dapat menjawab pertanyaan pelanggan secara otomatis, memberikan dukungan 24/7 tanpa memerlukan interaksi manusia.
+- Pengolahan Pesanan: Bisnis dapat menggunakan bot untuk menerima dan memproses pesanan, mengirim konfirmasi, dan memberikan pembaruan status pesanan. 
+- Pengingat dan Notifikasi: Bot dapat mengirim pengingat untuk janji temu, pembayaran, atau acara penting lainnya.
+- Kuis dan Survey: Bot dapat digunakan untuk mengumpulkan umpan balik pelanggan melalui kuis dan survei.
+- Informasi Produk: Bot dapat memberikan informasi tentang produk atau layanan, termasuk harga, ketersediaan, dan spesifikasi.
+- Personalized Marketing: Bot dapat mengirim pesan yang dipersonalisasi berdasarkan preferensi dan riwayat pembelian pengguna.
+
+### 2.1.1.3 Mongodb Compass
+MongoDB Compass adalah alat antarmuka grafis pengguna (GUI) yang disediakan oleh MongoDB untuk mengelola dan menganalisis data dalam database MongoDB. Alat ini memudahkan pengguna untuk berinteraksi dengan database tanpa perlu menggunakan baris perintah, berkat antarmuka yang intuitif dan fitur visualisasi data yang canggih. Dengan MongoDB Compass, pengguna dapat membangun, menjalankan, dan mengoptimalkan kueri menggunakan query builder yang interaktif, serta melihat hasil kueri secara real-time. Selain itu, fitur analisis skema memungkinkan pengguna untuk memahami struktur dan kualitas data dalam koleksi, sementara alat pengelolaan indeks membantu meningkatkan performa kueri. MongoDB Compass juga menyediakan validasi data untuk memastikan integritas, serta mendukung pengelolaan izin dan kontrol akses untuk keamanan database. Alat ini sangat bermanfaat bagi pengembang dan administrator database yang ingin bekerja dengan MongoDB secara lebih efisien dan efektif.
+
+### Json 
+JSON (JavaScript Object Notation) adalah format pertukaran data yang ringan dan mudah dibaca oleh manusia serta diurai oleh mesin. JSON sering digunakan dalam aplikasi web dan API untuk mengirim dan menerima data. Format ini menggunakan sintaks sederhana yang terdiri dari pasangan nama/nilai dan daftar terurut, mirip dengan objek JavaScript, sehingga mudah dipahami oleh pengembang. Keunggulan JSON adalah interoperabilitasnya, karena dapat digunakan dengan berbagai bahasa pemrograman seperti JavaScript, Python, Java, dan C#. JSON juga dikenal karena strukturnya yang ringan dan efisien, mendukung objek dan array serta tipe data sederhana seperti string, number, boolean, dan null. Sebagai standar industri untuk pertukaran data, JSON digunakan secara luas dalam layanan web, API, dan konfigurasi aplikasi. Contoh JSON yang menggambarkan informasi pengguna mencakup atribut seperti nama, usia, email, dan alamat yang diatur dalam format terstruktur yang mudah dibaca dan diolah.
+
+### Webhook
+Webhook adalah mekanisme yang memfasilitasi komunikasi real-time antara aplikasi atau layanan. Ini bekerja dengan cara mengirimkan data dari satu aplikasi ke aplikasi lain secara otomatis ketika suatu peristiwa terjadi. Contoh peristiwa ini bisa beragam, seperti pembelian produk, pendaftaran pengguna baru, atau posting komentar. Saat peristiwa semacam itu terjadi, webhook akan memberi tahu aplikasi penerima dengan mengirimkan data ke URL yang telah ditentukan sebelumnya. Dengan demikian, webhook mengurangi kebutuhan polling, di mana aplikasi harus secara berkala memeriksa apakah peristiwa telah terjadi. Keuntungan utama dari webhook adalah efisiensinya dalam komunikasi antar-aplikasi, memungkinkan sistem untuk bertindak secara instan berdasarkan peristiwa yang terjadi di sistem lainnya. Selain itu, penggunaan webhook relatif sederhana dan mudah diimplementasikan, membuatnya menjadi alat yang populer dalam integrasi sistem dan otomatisasi proses bisnis.
 2.2. Deskripsi Metode Yang Sama
 3. BAB III Metodologi Penelitian
 3.1. Metodologi Penelitian.
