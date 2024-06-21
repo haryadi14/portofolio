@@ -64,7 +64,7 @@ Beberapa fitur utama Golang adalah:
 4. Pengumpulan sampah: Golang memiliki pengumpul sampah untuk membantu mengelola memori secara otomatis.
 5. Kompilasi Cepat: Waktu pembuatan Golang sangat cepat, memungkinkan pengembang mempersingkat siklus pengembangan.
 
-### 2.1.1.2 Whatsapp
+### 2.1.2 Whatsapp
 WhatsApp adalah aplikasi pesan instan yang sangat populer, yang memungkinkan pengguna untuk mengirim pesan teks, gambar, video, dan dokumen, 
 serta melakukan panggilan suara dan video melalui internet. Fitur-fitur seperti enkripsi end-to-end, grup chat, status, dan kemampuan berbagi lokasi
 membuat WhatsApp menjadi alat komunikasi yang esensial bagi banyak orang di seluruh dunia. Aplikasi ini juga tersedia di berbagai platform, 
@@ -72,7 +72,7 @@ termasuk Android, iOS, dan web, memungkinkan pengguna untuk tetap terhubung di m
 yang didirikan oleh Jan Koum dan Brian Acton, dan kemudian diakuisisi oleh Facebook (sekarang Meta Platforms) pada tahun 2014.
 WhatsApp telah menjadi alat komunikasi penting bagi jutaan orang di seluruh dunia, baik untuk keperluan pribadi maupun bisnis.
 
-### 2.1.1.3 Bot Whatsapp
+### 2.1.3 Bot Whatsapp
 Bot WhatsApp adalah perangkat lunak otomatis yang digunakan untuk berinteraksi dengan pengguna melalui WhatsApp. Bot ini dapat diprogram untuk melakukan berbagai tugas seperti menjawab pertanyaan umum, memberikan informasi, memproses pesanan, dan banyak lagi. 
 Berikut adalah beberapa fungsi dan manfaat dari bot WhatsApp:
 - Layanan Pelanggan Otomatis: Bot dapat menjawab pertanyaan pelanggan secara otomatis, memberikan dukungan 24/7 tanpa memerlukan interaksi manusia.
@@ -82,7 +82,7 @@ Berikut adalah beberapa fungsi dan manfaat dari bot WhatsApp:
 - Informasi Produk: Bot dapat memberikan informasi tentang produk atau layanan, termasuk harga, ketersediaan, dan spesifikasi.
 - Personalized Marketing: Bot dapat mengirim pesan yang dipersonalisasi berdasarkan preferensi dan riwayat pembelian pengguna.
 
-### 2.1.1.3 Mongodb Compass
+### 2.1.4 Mongodb Compass
 MongoDB Compass adalah alat antarmuka grafis pengguna (GUI) yang disediakan oleh MongoDB untuk mengelola dan menganalisis data dalam database MongoDB. 
 Alat ini memudahkan pengguna untuk berinteraksi dengan database tanpa perlu menggunakan baris perintah, berkat antarmuka yang intuitif dan fitur visualisasi data yang canggih.
 Dengan MongoDB Compass, pengguna dapat membangun, menjalankan, dan mengoptimalkan kueri menggunakan query builder yang interaktif, serta melihat hasil kueri secara real-time. 
@@ -90,7 +90,7 @@ Selain itu, fitur analisis skema memungkinkan pengguna untuk memahami struktur d
 MongoDB Compass juga menyediakan validasi data untuk memastikan integritas, serta mendukung pengelolaan izin dan kontrol akses untuk keamanan database.
 Alat ini sangat bermanfaat bagi pengembang dan administrator database yang ingin bekerja dengan MongoDB secara lebih efisien dan efektif.
 
-### Json 
+### 2.1.5 Json 
 JSON (JavaScript Object Notation) adalah format pertukaran data yang ringan dan mudah dibaca oleh manusia serta diurai oleh mesin.
 JSON sering digunakan dalam aplikasi web dan API untuk mengirim dan menerima data.
 Format ini menggunakan sintaks sederhana yang terdiri dari pasangan nama/nilai dan daftar terurut,
@@ -100,7 +100,7 @@ JSON juga dikenal karena strukturnya yang ringan dan efisien, mendukung objek da
 Sebagai standar industri untuk pertukaran data, JSON digunakan secara luas dalam layanan web, API, dan konfigurasi aplikasi. 
 Contoh JSON yang menggambarkan informasi pengguna mencakup atribut seperti nama, usia, email, dan alamat yang diatur dalam format terstruktur yang mudah dibaca dan diolah.
 
-### Webhook
+### 2.1.6 Webhook
 Webhook adalah mekanisme yang memfasilitasi komunikasi real-time antara aplikasi atau layanan. 
 Ini bekerja dengan cara mengirimkan data dari satu aplikasi ke aplikasi lain secara otomatis ketika suatu peristiwa terjadi.
 Contoh peristiwa ini bisa beragam, seperti pembelian produk, pendaftaran pengguna baru, atau posting komentar. Saat peristiwa semacam itu terjadi, 
@@ -109,6 +109,26 @@ di mana aplikasi harus secara berkala memeriksa apakah peristiwa telah terjadi. 
 nya dalam komunikasi antar-aplikasi, 
 memungkinkan sistem untuk bertindak secara instan berdasarkan peristiwa yang terjadi di sistem lainnya. Selain itu, penggunaan webhook relatif sederhana 
 dan mudah diimplementasikan, membuatnya menjadi alat yang populer dalam integrasi sistem dan otomatisasi proses bisnis.
+
+### 2.1.7 Service Excellent 
+Service Excellence berasal dari bahasa Inggris service yang berarti pelayanan, pelayanan dan pelayanan, dan Excellence yang berarti keunggulan, prestasi dan keunggulan. 
+Pengertian Service Excellence adalah upaya untuk memberikan dan menciptakan keunggulan dengan cara memberikan pelayanan prima yang mengutamakan kebutuhan pelanggan.
+Pengertian service excelent yang artinya pelayanan terbaik dalam bahasa Indonesia dapat diterapkan pada semua jenis bisnis, baik itu produk atau jasa, bakti sosial atau makanan, untuk menciptakan pelanggan yang puas dan setia. 
+Untuk mencapai kepuasan pelanggan dan pelanggan setia maka perlu adanya tujuan yaitu menerapkan pelayanan yang terbaik.
+Seluruh kegiatan yang dilakukan oleh berbagai perusahaan untuk melaksanakan pelayanan terbaik mempunyai tujuan sebagai berikut:
+1. Menyediakan segala informasi sesuai dengan kebutuhan pelanggan
+2. Memberikan pelayanan berkualitas tinggi kepada pelanggan
+3. Hal ini menciptakan kepercayaan di kalangan konsumen terhadap produk dan jasa yang dijual. 
+4. Memberikan informasi detail mengenai produk atau jasa yang ditawarkan.
+5. Hindari keluhan, permintaan, dan ketidakpuasan pelanggan terhadap produk, layanan, atau perusahaan Anda.
+6. Untuk membangun kepercayaan dan keyakinan agar pelanggan dapat mengulangi dan menggunakan produk atau jasa yang kami tawarkan.
+
+### 2.1.8 User Experience
+UX, atau pengalaman pengguna, adalah sebuah konsep yang berfokus pada bagaimana pengguna berinteraksi dengan produk atau layanan yang mereka gunakan. 
+Tujuanya adalah menemukan cara termudah dan paling efisien bagi pengguna untuk menggunakan suatu produk atau layanan.
+Pengalaman pengguna penting dalam hal angka penjualan dan tingkat keberhasilan produk atau layanan Anda. 
+Pada akhirnya, pengalaman pengguna yang baik menghasilkan konversi yang baik.
+Pengalaman pengguna ditentukan oleh tiga kriteria: kemudahan penggunaan, aksesibilitas, dan kegunaan.
 
 ###2.2. Deskripsi Metode Yang Sama
 
