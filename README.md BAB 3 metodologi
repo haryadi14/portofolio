@@ -56,6 +56,11 @@ dalam hal prosedur, kebijakan, atau layanan yang tersedia
 ### 2.1.1 Golang
 Golang adalah bahasa pemrograman yang dikembangkan oleh Google. 
 Bahasa ini dirancang untuk efisiensi dan kemudahan pengembangan perangkat lunak skala besar.
+Go atau Golang adalah bahasa pemrograman open-source yang dikembangkan oleh Google.
+Ketika Google mulai berkembang pesat, engineer Google merasa bahasa C++ terlalu rumit untuk dikelola. 
+Kemudian mereka (Robert Griesemer, Rob Pike, dan Ken Thompson) berinisiatif mengembangkan bahasa yang mudah dikelola dan dipelajari. Bahasa baru inilah yang dinamakan Go.
+Developer biasanya menggunakan Golang dalam berbagai sistem operasi dan framework untuk mengembangkan web, layanan cloud dan jaringan, serta jenis perangkat lunak lainnya.
+Bagi developer, Golang berfungsi untuk mengembangkan aplikasi software dan sistem. Dengan bahasa Go, developer dapat merancang, meng-coding, menguji, memelihara program, sekaligus debugging. 
 Beberapa fitur utama Golang adalah:
 1. Sangat fungsional: Golang sangat fungsional dengan dikompilasi langsung ke dalam kode mesin.
 2. Tata bahasa sederhana: Bahasa memiliki tata bahasa yang jelas dan mudah dipahami.
