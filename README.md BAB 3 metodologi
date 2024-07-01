@@ -190,7 +190,7 @@ Deployment: Rilis bot ke lingkungan produksi melalui integrasi penuh dengan plat
 Monitoring: Awasi performa bot untuk mendeteksi dan menyelesaikan masalah yang muncul setelah peluncuran.
 
 ## 3.2. Tahapan Tahapan Diagram Metodologi Penelitian
-![image](https://github.com/haryadi14/jurnal_peningkatan-/blob/master/FLOW%20CHART%20TA.drawio.png?raw=true)  
+![image](https://github.com/haryadi14/jurnal_peningkatan-/raw/master/FLOW%20CHART%20TA.drawio.png?raw=true)  
 
 
 Tahapan Alur Diagram Penelitian
@@ -208,15 +208,12 @@ Tahapan Alur Diagram Penelitian
     •	Mengatur platform WhatsAuth untuk interaksi dengan WhatsApp API.
     •	Mengembangkan skrip bot dengan bahasa pemrograman yang sesuai.
     •	Mengintegrasikan bot dengan API WhatsApp melalui WhatsAuth.
-5.	Pengujian dan Evaluasi:
-    •	Melakukan pengujian awal dan beta testing dengan pengguna terbatas.
-    •	Mengumpulkan umpan balik dan melakukan iterasi perbaikan.
 6.	Implementasi dan Peluncuran:
     •	Meluncurkan bot di lingkungan produksi.
     •	Memantau performa bot secara berkala.
-7.	Pelatihan dan Pemeliharaan:
-    •	Melatih bot berdasarkan data interaksi pengguna.
-    •	Melakukan pembaruan rutin untuk perbaikan dan penambahan fitur.
+5.	Pengujian dan Evaluasi:
+    •	Melakukan pengujian awal dan beta testing dengan pengguna terbatas.
+    •	Mengumpulkan umpan balik dan melakukan iterasi perbaikan.
 Dengan mengikuti tahapan-tahapan ini, penelitian diharapkan dapat menghasilkan chatbot WhatsApp yang efektif, responsif, dan mampu meningkatkan layanan di LLDIKTI 4 berdasarkan pengalaman pengguna.
 
 
