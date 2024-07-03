@@ -204,10 +204,8 @@ Tahapan Alur Diagram Penelitian
     •	Merancang alur percakapan bot yang intuitif.
     •	Menentukan respons bot untuk berbagai input pengguna.
     •	Menyusun skenario fallback untuk input yang tidak dipahami.
-4.	Pengembangan Bot Menggunakan WhatsAuth:
-    •	Mengatur platform WhatsAuth untuk interaksi dengan WhatsApp API.
-    •	Mengembangkan skrip bot dengan bahasa pemrograman yang sesuai.
-    •	Mengintegrasikan bot dengan API WhatsApp melalui WhatsAuth.
+4.	Pengembangan Bot :
+    •	a.	Mengembangkan skrip bot dengan bahasa pemrograman golang 	
 6.	Implementasi dan Peluncuran:
     •	Meluncurkan bot di lingkungan produksi.
     •	Memantau performa bot secara berkala.
